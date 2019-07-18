@@ -8,7 +8,7 @@ More info at http://efektalab.com/e73b_pws
 
 Contact: hello@efektalab.com
 
-Video: https://youtu.be/5jZt3NWf9GA
+Video: https://youtu.be/Toto1Cw4QBo
 
 ---
 
