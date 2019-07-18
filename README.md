@@ -2,7 +2,7 @@ Wireless Module for Capacitive Soil Moisture Sensor v1.2.
 
 Running on cr2450 battery (500mA).
 
-Used the MySensors library/
+Used the MySensors library
 
 More info at http://efektalab.com/e73b_pws
 
@@ -15,6 +15,8 @@ Video: https://youtu.be/Toto1Cw4QBo
 ---
 
 Components (see also BOM.CSV):
+
+Capacitive Soil Moisture Reed Magnetron Sensor v1.2 - http://ali.ski/et-nG
 
 EBYTE E73-2G4M04S1B - http://ali.ski/JhN7YD
 
