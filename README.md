@@ -10,7 +10,7 @@ Contact: hello@efektalab.com
 
 Video: https://youtu.be/Toto1Cw4QBo
 
-Сost of the assembled device - $12
+Сost of the assembled device - $12 (on sale)
 
 ---
 
