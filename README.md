@@ -43,3 +43,13 @@ Micro Button Tact Switch SMD 4Pin 3X4X2.5MM White - http://ali.ski/8wHa4-
 CR2450 Battery Socket Holder Case (TBH-CR2450-03) - http://ali.ski/49emH8
 
 1x40 Single Row Male 2.54 Breakable Pin - http://ali.ski/16VVV
+
+---
+
+Operating mode - 8 mA
+
+Sleep mode - 2.2 microamperes
+
+
+---
+
