@@ -1,16 +1,22 @@
-Wireless Module for Capacitive Soil Moisture Sensor v1.2.
+## Wireless Module for Capacitive Soil Moisture Sensor v1.2.
+
+#### If this project was useful to you, you can buy me a Cup of coffee :)
+
+PayPal: altigraph@yandex.com
+
+Yandex Money: 4100140180242
+
+Also you can buy an assembled sensor - $10
 
 Running on cr2450 battery (500mA).
 
 Used the MySensors library
 
-More info at http://efektalab.com/e73b_pws
+More info at http://efektalab.com/e73b_pws (still not working)
 
-Contact: hello@efektalab.com
+Contact: altigraph@yandex.com
 
 Video: https://youtu.be/Toto1Cw4QBo
-
-Сost of the assembled device - $12 (on sale)
 
 ---
 
