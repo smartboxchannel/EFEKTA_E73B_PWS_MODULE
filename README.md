@@ -6,7 +6,7 @@ PayPal: altigraph@yandex.com
 
 Yandex Money: 4100140180242
 
-Also you can buy an assembled sensor - $10
+Also you can buy an assembled sensor - $9
 
 Running on cr2450 battery (500mA).
 
