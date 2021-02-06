@@ -1,26 +1,17 @@
 ## Wireless Module for Capacitive Soil Moisture Sensor v1.2.
 
-#### Donate me, ..I will make more and faster open devices :)
-
-VISA: 4048415000506242
-
-PayPal: altigraph@ya.ru
-
-Yandex Money: 4100140180242
-
-WebMoney: Z722291985192, X133903637383, R494367503336
-
-Bitcoin: bc1q4ejf52gfk0p6z8qahq3f7qz9jpm3lmjq9c7rcr
-
-Running on cr2450 battery (500mA).
-
-Used the MySensors library
+#### Don't donate to me, it doesn't work in this world: https://paypal.me/efektalab , just buy:
 
 More info at http://efektalab.com/e73b_pws (still not working)
 
 Contact: altigraph@yandex.com
 
 Video: https://youtu.be/Toto1Cw4QBo
+
+Running on cr2450 battery (500mA).
+
+Used the MySensors library
+
 
 ---
 
